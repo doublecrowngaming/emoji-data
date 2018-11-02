@@ -84,10 +84,10 @@
 1FA6C;xiangqi_black_cannon
 1FA6D;xiangqi_black_soldier
 
-{MAN/WOMAN}-200D-1F9B0;red_haired_{M/W}
-{MAN/WOMAN}-200D-1F9B1;curly_haired_{M/W}
-{MAN/WOMAN}-200D-1F9B2;bald_{M/W}
-{MAN/WOMAN}-200D-1F9B3;white_haired_{M/W}
+{MAN/WOMAN}{SKIN}-200D-1F9B0;red_haired_{M/W}
+{MAN/WOMAN}{SKIN}-200D-1F9B1;curly_haired_{M/W}
+{MAN/WOMAN}{SKIN}-200D-1F9B2;bald_{M/W}
+{MAN/WOMAN}{SKIN}-200D-1F9B3;white_haired_{M/W}
 
 1F9B8-200D-{MALE/FEMALE}-FE0F;{GENDER}_superhero
 1F9B9-200D-{MALE/FEMALE}-FE0F;{GENDER}_supervillain
