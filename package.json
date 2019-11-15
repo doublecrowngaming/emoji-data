@@ -1,5 +1,5 @@
 {
-  "name": "@doublecrowngaming/emoji-datasource",
+  "name": "@doublecrown/emoji-datasource",
   "version": "4.2.6",
   "description": "Emoji data and images",
   "main": "emoji.json",
